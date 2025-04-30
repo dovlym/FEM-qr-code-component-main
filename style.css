@@ -8,7 +8,6 @@
     --secundary-color:hsl(220, 15%, 55%);
     --blue-color:hsl(212, 45%, 89%);
     --neutral-white:hsl(0, 0%, 100%);
-    --neutral-blue:#3685FF;
     --primary-font-family: 'Outfit', sans-serif;
    
 }
@@ -73,5 +72,6 @@ footer{
      text-align: center;
 }
 .attribution a { 
-    color:var( --neutral-blue);
+    color: var(--primary-color);
+    font-weight: 500;
 }
