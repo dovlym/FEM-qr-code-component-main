@@ -38,7 +38,7 @@ Users should be able to:
 
 ### Links
 
-[My Solution](https://dovelm.github.io/FEM-qr-code-component-main/)
+[My Solution](https://dovlym.github.io/FEM-qr-code-component-main/)
 
 
 ## My process
